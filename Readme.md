@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/ETL-Pipeline-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-VADER-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Dashboard-Streamlit-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-Sreelakshmi%20M-purple?style=for-the-badge" />
 </p>
 
